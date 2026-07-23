@@ -124,7 +124,7 @@ customer-shopping-behavior-analysis/
   - Customer Loyalty Segmentation
   - Discount Penetration & Shipping Method Trends
 
-![Customer Shopping Behavior Dashboard](images/dashboard.png)
+![Customer Shopping Behavior Dashboard](images/dashboard.jpg)
 
 ---
 <h2><a class="anchor" id="how-to-run-this-project"></a>How to Run This Project</h2>
